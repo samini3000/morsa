@@ -1,0 +1,10 @@
+MorsaTask/.vs/
+MorsaTask/API/bin/
+MorsaTask/API/obj/
+
+MorsaTask/Domain/obj/
+MorsaTask/Infrustructure/bin/
+MorsaTask/Infrustructure/obj/
+MorsaTask/MorsaTask/obj/
+MorsaTask/MorsaTask/bin/
+MorsaTask/Domain/bin/
