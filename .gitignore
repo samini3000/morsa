@@ -8,3 +8,5 @@ MorsaTask/Infrustructure/obj/
 MorsaTask/MorsaTask/obj/
 MorsaTask/MorsaTask/bin/
 MorsaTask/Domain/bin/
+MorsaTask/Application/bin/
+MorsaTask/Application/obj/

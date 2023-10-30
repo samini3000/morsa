@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Application\Application.csproj" />
     <ProjectReference Include="..\Infrustructure\Infrustructure.csproj" />
     <ProjectReference Include="..\MorsaTask\Application.csproj" />
   </ItemGroup>
